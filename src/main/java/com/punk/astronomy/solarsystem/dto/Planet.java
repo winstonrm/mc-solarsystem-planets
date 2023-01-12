@@ -1,6 +1,6 @@
 package com.punk.astronomy.solarsystem.dto;
 
-public class Planets{
+public class Planet{
 	public String id;
 	public String name;
 	public String type;
