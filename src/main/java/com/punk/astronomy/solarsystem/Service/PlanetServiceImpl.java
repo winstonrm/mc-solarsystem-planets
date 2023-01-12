@@ -1,4 +1,4 @@
-package com.punk.astronomy.solarsystem.Service;
+package com.punk.astronomy.solarsystem.service;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
